@@ -1,0 +1,5 @@
+# Uli AI OS Ignored Files
+node_modules/
+.env
+.DS_Store
+*.log
